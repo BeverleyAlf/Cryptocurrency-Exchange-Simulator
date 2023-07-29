@@ -1,17 +1,19 @@
 # Cryptocurrency-Exchange-Simulator
+
 A simulated cryptocurrency exchange platform where users can trade with virtual funds.
 
 Please note that, here i provied a detailed outline and core code structure, however please understand that building a complete exchange simulator requires more extensive development and considerations for security, user authentication, and real-time market data. Below is a detailed outline of the main components and functionalities you should consider when building the simulator.
 
 
 
-Step 1: Database Setup
+__Step 1:__ Database Setup
+
 Create a SQLite database and define the necessary tables for storing user accounts, virtual funds, transaction history, and other relevant data.
 
-Step 2: Implement User Registration and Authentication
+__Step 2:__ Implement User Registration and Authentication
 Build endpoints for user registration, login, and logout. Store user credentials securely in the database, and use Flask's session management for user authentication.
 
-Step 3: Design the User Interface
+__Step 3:__ Design the User Interface
 Create HTML templates and CSS stylesheets for the user interface. Include pages for account registration, login, trading dashboard, balance overview, transaction history, etc.
 
 Step 4: User Account and Virtual Funds
