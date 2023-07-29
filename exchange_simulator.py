@@ -14,9 +14,9 @@ class User(db.Model):
     password = db.Column(db.String(100), nullable=False)
     balance = db.Column(db.Float, default=10000.0)
 
-# Add more models as needed for transactions, orders, etc.
+# Add more models as needed for transactions, orders, etc...
 
-# Routes and Views
+# Routes and Views:
 @app.route('/')
 def index():
     # Check if the user is logged in using session management
