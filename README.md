@@ -6,7 +6,7 @@ __Note:__ I provied a detailed outline and core code structure, however please u
 
 
 
-__Step 1:__ Database Setup
+__Step 1:__ Database Setup:
 
 Create a SQLite database and define the necessary tables for storing user accounts, virtual funds, transaction history, and other relevant data.
 
