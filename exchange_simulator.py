@@ -19,7 +19,7 @@ class User(db.Model):
 # Routes and Views:
 @app.route('/')
 def index():
-    # Check if the user is logged in using session management
+    # Check if the user is logged in using session management:
     if 'user_id' in session:
         # Display user dashboard and balance
         user = User.query.get(session['user_id'])
