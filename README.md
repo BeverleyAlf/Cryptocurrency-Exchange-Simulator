@@ -6,14 +6,14 @@ __Note:__ I provied a detailed outline and core code structure, however please u
 
 
 
-__Step 1:__ Database Setup
+__Step 1:__ Database Setup:
 
 Create a SQLite database and define the necessary tables for storing user accounts, virtual funds, transaction history, and other relevant data.
 
 __Step 2:__ Implement User Registration and Authentication
 Build endpoints for user registration, login, and logout. Store user credentials securely in the database, and use Flask's session management for user authentication.
 
-__Step 3:__ Design the User Interface
+__Step 3:__ Design the User Interface:
 Create HTML templates and CSS stylesheets for the user interface. Include pages for account registration, login, trading dashboard, balance overview, transaction history, etc.
 
 Step 4: User Account and Virtual Funds
