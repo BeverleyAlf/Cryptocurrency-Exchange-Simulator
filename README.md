@@ -16,7 +16,7 @@ Build endpoints for user registration, login, and logout. Store user credentials
 __Step 3:__ Design the User Interface:
 Create HTML templates and CSS stylesheets for the user interface. Include pages for account registration, login, trading dashboard, balance overview, transaction history, etc.
 
-Step 4: User Account and Virtual Funds
+__Step 4:__ User Account and Virtual Funds
 Implement functions to create user accounts and assign virtual funds to each user upon registration. The virtual funds represent the starting balance for users to simulate trading.
 
 Step 5: Market Data Simulation
