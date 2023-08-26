@@ -1,7 +1,7 @@
 # Cryptocurrency-Exchange-Simulator
 
-A simulated cryptocurrency exchange platform where users can trade with virtual funds...
-.
+A simulated cryptocurrency exchange platform where users can trade with virtual funds.
+
 __Note:__ I provied a detailed outline and core code structure, however please understand that building a complete exchange simulator requires more extensive development and considerations for security, user authentication, and real-time market data. Below is a detailed outline of the main components and functionalities you should consider when building the simulator.
 
 
